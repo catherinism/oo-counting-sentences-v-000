@@ -23,7 +23,7 @@ class String
   def count_sentences
 
     self.split.each {|sentence|}.count
-    end
+    
 
 
   end
