@@ -24,7 +24,7 @@ class String
 
     self.split.each do |sentence|.count
     end
-
+    
 
   end
 end
