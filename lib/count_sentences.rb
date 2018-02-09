@@ -22,7 +22,8 @@ class String
 
   def count_sentences
 
-
+    self.split.each do |sentence|.count
+    end
 
 
   end
